@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-09T16:37:33.008+02:00
-  initializedAtString: 2020-10-09T16:37:32.250+02:00
+  lastUpdatedAtString: 2020-10-09T16:45:09.941+02:00
+  initializedAtString: 2020-10-09T16:45:09.941+02:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Pypodhau/TwoGether
+    url: https://github.com/Pypodhau/TwoGether_Proj.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Pypodhau/TwoGether_Proj.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/Pypodhau/TwoGether
+    url: https://github.com/Pypodhau/TwoGether_Proj.git
   currentHead: 
