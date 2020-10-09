@@ -13,6 +13,168 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-09T16:37:32.256+02:00
-  initializedAtString: 2020-10-09T16:37:32.256+02:00
-  entries: []
+  lastUpdatedAtString: 2020-10-09T16:48:22.192+02:00
+  initializedAtString: 2020-10-09T16:44:09.103+02:00
+  entries:
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\00615857eef86853e98dd884893abaa6.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\0\00615857eef86853e98dd884893abaa6.bin
+    projectPath: Library\ShaderCache\0\00615857eef86853e98dd884893abaa6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\05f3dd573f4c5e23c969ddfca7148798.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\0\05f3dd573f4c5e23c969ddfca7148798.bin
+    projectPath: Library\ShaderCache\0\05f3dd573f4c5e23c969ddfca7148798.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\22786da5cd6120d0ab23c7fa8b19e6ff.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\2\22786da5cd6120d0ab23c7fa8b19e6ff.bin
+    projectPath: Library\ShaderCache\2\22786da5cd6120d0ab23c7fa8b19e6ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2c9c95761c59d389c263d53901e4cdc9.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\2\2c9c95761c59d389c263d53901e4cdc9.bin
+    projectPath: Library\ShaderCache\2\2c9c95761c59d389c263d53901e4cdc9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\388fe733ec1c4cae84625ad743450abe.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\3\388fe733ec1c4cae84625ad743450abe.bin
+    projectPath: Library\ShaderCache\3\388fe733ec1c4cae84625ad743450abe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\56f626c4a7269a167d23484b5fbc9b15.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\5\56f626c4a7269a167d23484b5fbc9b15.bin
+    projectPath: Library\ShaderCache\5\56f626c4a7269a167d23484b5fbc9b15.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\62dd5b8e15d430adc786fbf613a11204.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\6\62dd5b8e15d430adc786fbf613a11204.bin
+    projectPath: Library\ShaderCache\6\62dd5b8e15d430adc786fbf613a11204.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\773525cd13ea616dec838ff1941dd47d.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\7\773525cd13ea616dec838ff1941dd47d.bin
+    projectPath: Library\ShaderCache\7\773525cd13ea616dec838ff1941dd47d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\89cb6f245ed9f4bed81d85294a329e8f.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\8\89cb6f245ed9f4bed81d85294a329e8f.bin
+    projectPath: Library\ShaderCache\8\89cb6f245ed9f4bed81d85294a329e8f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f3016b98b7671003236f547cdb88b0e1.bin
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\ShaderCache\f\f3016b98b7671003236f547cdb88b0e1.bin
+    projectPath: Library\ShaderCache\f\f3016b98b7671003236f547cdb88b0e1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: F:\ENIB\S9\IEVA\TwoGether_Git\TwoGether_Proj\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
