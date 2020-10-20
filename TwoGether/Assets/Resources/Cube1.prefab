@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 54499076218726066}
   - component: {fileID: 4080247035881369797}
   - component: {fileID: 6405864553640127074}
-  - component: {fileID: 9182769707243941574}
+  - component: {fileID: 2877964367104350941}
   m_Layer: 0
   m_Name: Cube1
   m_TagString: Untagged
@@ -131,9 +131,9 @@ MonoBehaviour:
   Synchronization: 3
   OwnershipTransfer: 0
   ObservedComponents:
-  - {fileID: 9182769707243941574}
-  viewIdField: 5
-  InstantiationId: 5
+  - {fileID: 2877964367104350941}
+  viewIdField: 2
+  InstantiationId: 2
   isRuntimeInstantiated: 0
 --- !u!114 &6405864553640127074
 MonoBehaviour:
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a81e86bae5df5c4c9c2b95f6b5bb3df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &9182769707243941574
+--- !u!114 &2877964367104350941
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
